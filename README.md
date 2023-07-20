@@ -1,6 +1,6 @@
 # TabDrawerAndNavigationReactNativewithTS
 
-- This example is drawer,tab,stack nevigation for react-native with typescreen
+- This example is drawer,tab,stack nevigation for react-native with typescript
 
 
 
