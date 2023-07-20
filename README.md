@@ -5,8 +5,8 @@
 
 
 
-official website
+- official website
 
 
-- Reactnativ navigator official site:
+- React-Nativ navigator official site:
 [https://reactnavigation.org/docs/stack-navigator](https://reactnavigation.org/docs/stack-navigator)
